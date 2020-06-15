@@ -35,6 +35,8 @@ This Workstation for extreme application used to be a Beast with Dual CPUs and a
 
 # HP Z840 Workstation Resources
 
+- Owner's Manual [PDF](http://h10032.www1.hp.com/ctg/Manual/c04823811)
+
 ## Install a Supported Graphic Card Out Of The Box (OOB)
 
 ### Supported Nvidia Kepler Graphics Cards
