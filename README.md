@@ -119,6 +119,9 @@ H. Add the HFSPlus.efi driver to the Drivers64-UEFI folder. This is also attache
 ## Step 2. Update BIOS to last available 
 
 1. Donwload the latest BIOS version.
+
+BIOS 2.50 Rev.A Nov 12,2019 [link](https://ftp.hp.com/pub/softpaq/sp100001-100500/sp100084.exe) Install over Windows 10 (64-bit)
+
 1. Flashing te BIOS to a newer Revision
 
 ## Step 3. Recommended BIOS Settings
