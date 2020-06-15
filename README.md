@@ -35,7 +35,7 @@ This Workstation for extreme application used to be a Beast with Dual CPUs and a
 
 # HP Z840 Workstation Resources
 
-- Owner's Manual [PDF](http://h10032.www1.hp.com/ctg/Manual/c04823811)
+- User Guide [PDF](http://h10032.www1.hp.com/ctg/Manual/c04823811)
 - Quick Specs [PDF](https://h20195.www2.hp.com/v2/getpdf.aspx/c04400043.pdf)
 - Maintenance and Service Guide [PDF](http://h10032.www1.hp.com/ctg/Manual/c04823811)
 
